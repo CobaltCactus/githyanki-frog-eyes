@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="fbce759c-4942-4660-0061-75697f826361"/>
+            <attribute id="Name" type="LSString" value="githyanki_frog_eyes"/>
+            <attribute id="UUID" type="LSString" value="d64eed08-5188-4759-3a2d-39835dfc6e06"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
